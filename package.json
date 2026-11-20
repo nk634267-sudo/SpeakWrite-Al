@@ -1,0 +1,27 @@
+{
+  "name": "speakwrite-ai",
+  "version": "1.0.0",
+  "description": "AI-powered English communication and confidence improvement platform",
+  "main": "server/server.js",
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "npm run dev --prefix server",
+    "client": "npm run dev --prefix client",
+    "start": "npm start --prefix server",
+    "build": "npm run build --prefix client"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "localtunnel": "^2.0.2"
+  },
+  "keywords": [
+    "english-learning",
+    "ai",
+    "writing",
+    "speech",
+    "video",
+    "confidence"
+  ],
+  "author": "SpeakWrite AI Team",
+  "license": "MIT"
+}

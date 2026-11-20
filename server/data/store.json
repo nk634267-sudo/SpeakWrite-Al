@@ -1,0 +1,434 @@
+{
+  "users": [
+    {
+      "_id": "f87076a0ad0e4c90abeb91db",
+      "name": "Sarah Jenkins (Updated)",
+      "email": "test_1788507736156@example.com",
+      "password": "$2a$10$CwKyoxZ87T93/OEVxQcYqOJAoLAn5b6bg2rnJvVUz1MRefqH6VsYi",
+      "englishLevel": "Upper Intermediate",
+      "streak": 1,
+      "lastPracticeDate": "2026-09-04T07:42:16.621Z",
+      "createdAt": "2026-09-04T07:42:16.452Z",
+      "updatedAt": "2026-09-04T07:42:16.654Z",
+      "goals": [
+        "Writing",
+        "Speaking",
+        "Confidence"
+      ],
+      "dailyGoal": 30,
+      "difficulties": [
+        "I am afraid to speak",
+        "I make grammar mistakes"
+      ],
+      "totalPracticeTime": 4,
+      "settings": {
+        "voiceAccent": "nova",
+        "speechRate": 1.05,
+        "notificationsEnabled": true
+      }
+    },
+    {
+      "_id": "5851f89fbca24b439bd76617",
+      "name": "Niraj Kumar",
+      "email": "nk634267@gmail.com",
+      "password": "$2a$10$/tS2SBk6fr8fbMevWqxv4OTy5CackawMITvkGdutl9PdOuat.Takm",
+      "englishLevel": "Beginner",
+      "streak": 1,
+      "lastPracticeDate": "2026-09-04T08:35:40.548Z",
+      "createdAt": "2026-09-04T08:28:22.317Z",
+      "updatedAt": "2026-09-04T08:35:40.571Z",
+      "goals": [
+        "Writing",
+        "Speaking",
+        "Confidence",
+        "Vocabulary",
+        "Pronunciation",
+        "Interview skills",
+        "Public speaking",
+        "Grammar"
+      ],
+      "dailyGoal": 20,
+      "difficulties": [
+        "I am afraid to speak",
+        "I make grammar mistakes",
+        "I lack vocabulary",
+        "I have stage fear",
+        "I lack confidence"
+      ],
+      "totalPracticeTime": 10
+    }
+  ],
+  "writings": [
+    {
+      "_id": "9c456b7d13b6445fa1c3f2d5",
+      "userId": "f87076a0ad0e4c90abeb91db",
+      "topic": "The impact of remote working on work-life balance and productivity.",
+      "category": "Essay",
+      "difficulty": "Intermediate",
+      "timeLimit": 300,
+      "timeUsed": 120,
+      "answer": "In my opinion, I think college is very important. I am agree with this opinion because much people works very hard to achieve their dreams.",
+      "wordCount": 25,
+      "score": 73,
+      "scores": {
+        "grammar": 60,
+        "vocabulary": 80,
+        "sentenceStructure": 68,
+        "clarity": 76,
+        "organization": 82,
+        "spelling": 88
+      },
+      "feedback": {
+        "overallScore": 73,
+        "grammar": 60,
+        "vocabulary": 80,
+        "sentenceStructure": 68,
+        "clarity": 76,
+        "organization": 82,
+        "spelling": 88,
+        "strengths": [
+          "You maintained a clear focus on the central prompt.",
+          "Good directness in answering the core question.",
+          "Expressive tone that conveys your perspective genuinely."
+        ],
+        "weaknesses": [
+          "Watch out for subject-verb agreement and auxiliary verb usage.",
+          "Review terminal punctuation and capitalization."
+        ],
+        "mistakes": [
+          {
+            "original": "I am agree",
+            "correction": "I agree",
+            "explanation": "'Agree' is already a verb, so the auxiliary verb 'am' is not needed.",
+            "category": "Grammar"
+          },
+          {
+            "original": "much people",
+            "correction": "many people",
+            "explanation": "'People' is a countable noun, so use 'many' instead of 'much'.",
+            "category": "Vocabulary"
+          },
+          {
+            "original": "people works",
+            "correction": "people work",
+            "explanation": "Subject-verb agreement: 'people' is plural, so use the base verb form without '-s'.",
+            "category": "Grammar"
+          },
+          {
+            "original": "In my opinion, I think",
+            "correction": "In my opinion, / I think",
+            "explanation": "Both phrases mean the same thing. Choose one to avoid redundant phrasing.",
+            "category": "Clarity"
+          }
+        ],
+        "vocabularySuggestions": [
+          {
+            "original": "very important",
+            "suggestion": "crucial / imperative / paramount",
+            "explanation": "Adds weight and authority to your academic or professional writing.",
+            "example": "Clear cross-departmental communication is paramount during rapid expansion."
+          }
+        ],
+        "practiceRecommendations": [
+          "Write two sentences every morning focusing strictly on subject-verb agreements.",
+          "Read your text aloud slowly before submitting to catch missing punctuation and natural pauses.",
+          "Review the vocabulary suggestions above and try using \"crucial\" and \"demonstrate\" in your next submission."
+        ]
+      },
+      "createdAt": "2026-09-04T07:42:16.559Z",
+      "updatedAt": "2026-09-04T07:42:16.559Z"
+    },
+    {
+      "_id": "accfbc2fc19f41d8a1372ba7",
+      "userId": "5851f89fbca24b439bd76617",
+      "topic": "Should college students be allowed to use mobile phones during lectures?",
+      "category": "Essay",
+      "difficulty": "Beginner",
+      "timeLimit": 300,
+      "timeUsed": 299,
+      "answer": "I am not sure about that but in some case teacher can allow student to do there work but important things is student are not responsible that he or she can study during this opportunity they were start misusing it. Like start using soical media like instagram and also start gaming if they can use it for good purpose then it fine that teacher can allow to use mobile phone during lecture. ",
+      "wordCount": 72,
+      "score": 85,
+      "scores": {
+        "grammar": 89,
+        "vocabulary": 85,
+        "sentenceStructure": 80,
+        "clarity": 84,
+        "organization": 88,
+        "spelling": 88
+      },
+      "feedback": {
+        "overallScore": 85,
+        "grammar": 89,
+        "vocabulary": 85,
+        "sentenceStructure": 80,
+        "clarity": 84,
+        "organization": 88,
+        "spelling": 88,
+        "strengths": [
+          "You maintained a clear focus on the central prompt.",
+          "Good development of thoughts with supporting details.",
+          "Expressive tone that conveys your perspective genuinely."
+        ],
+        "weaknesses": [
+          "Try integrating more varied compound and complex sentence structures to increase fluency."
+        ],
+        "mistakes": [],
+        "vocabularySuggestions": [
+          {
+            "original": "good",
+            "suggestion": "effective / beneficial",
+            "explanation": "Provides clearer meaning regarding positive outcomes.",
+            "example": "Adopting consistent habits produces highly effective learning outcomes."
+          },
+          {
+            "original": "show",
+            "suggestion": "demonstrate / illustrate",
+            "explanation": "Standard formal academic verb for presenting evidence.",
+            "example": "Recent studies clearly demonstrate the benefits of structured practice."
+          }
+        ],
+        "practiceRecommendations": [
+          "Write two sentences every morning focusing strictly on subject-verb agreements.",
+          "Read your text aloud slowly before submitting to catch missing punctuation and natural pauses.",
+          "Review the vocabulary suggestions above and try using \"crucial\" and \"demonstrate\" in your next submission."
+        ]
+      },
+      "createdAt": "2026-09-04T08:35:40.461Z",
+      "updatedAt": "2026-09-04T08:35:40.461Z"
+    },
+    {
+      "_id": "8dd0baa786f14fe585f6119c",
+      "userId": "5851f89fbca24b439bd76617",
+      "topic": "Should college students be allowed to use mobile phones during lectures?",
+      "category": "Essay",
+      "difficulty": "Beginner",
+      "timeLimit": 300,
+      "timeUsed": 299,
+      "answer": "I am not sure about that but in some case teacher can allow student to do there work but important things is student are not responsible that he or she can study during this opportunity they were start misusing it. Like start using soical media like instagram and also start gaming if they can use it for good purpose then it fine that teacher can allow to use mobile phone during lecture. ",
+      "wordCount": 72,
+      "score": 85,
+      "scores": {
+        "grammar": 89,
+        "vocabulary": 85,
+        "sentenceStructure": 80,
+        "clarity": 84,
+        "organization": 88,
+        "spelling": 88
+      },
+      "feedback": {
+        "overallScore": 85,
+        "grammar": 89,
+        "vocabulary": 85,
+        "sentenceStructure": 80,
+        "clarity": 84,
+        "organization": 88,
+        "spelling": 88,
+        "strengths": [
+          "You maintained a clear focus on the central prompt.",
+          "Good development of thoughts with supporting details.",
+          "Expressive tone that conveys your perspective genuinely."
+        ],
+        "weaknesses": [
+          "Try integrating more varied compound and complex sentence structures to increase fluency."
+        ],
+        "mistakes": [],
+        "vocabularySuggestions": [
+          {
+            "original": "good",
+            "suggestion": "effective / beneficial",
+            "explanation": "Provides clearer meaning regarding positive outcomes.",
+            "example": "Adopting consistent habits produces highly effective learning outcomes."
+          },
+          {
+            "original": "show",
+            "suggestion": "demonstrate / illustrate",
+            "explanation": "Standard formal academic verb for presenting evidence.",
+            "example": "Recent studies clearly demonstrate the benefits of structured practice."
+          }
+        ],
+        "practiceRecommendations": [
+          "Write two sentences every morning focusing strictly on subject-verb agreements.",
+          "Read your text aloud slowly before submitting to catch missing punctuation and natural pauses.",
+          "Review the vocabulary suggestions above and try using \"crucial\" and \"demonstrate\" in your next submission."
+        ]
+      },
+      "createdAt": "2026-09-04T08:35:40.529Z",
+      "updatedAt": "2026-09-04T08:35:40.529Z"
+    }
+  ],
+  "voiceSessions": [
+    {
+      "_id": "0bb363cc49a84f8aa7893f74",
+      "userId": "f87076a0ad0e4c90abeb91db",
+      "scenario": "Tell me about yourself.",
+      "transcript": "Hello, um, I am an engineer and, like, I want to improve my speaking, you know, because public speaking makes me nervous.",
+      "duration": 35,
+      "scores": {
+        "fluency": 51,
+        "grammar": 74,
+        "vocabulary": 78,
+        "pronunciation": 76,
+        "confidence": 58,
+        "overallScore": 67
+      },
+      "feedback": {
+        "overallScore": 67,
+        "fluency": 51,
+        "grammar": 74,
+        "vocabulary": 78,
+        "pronunciation": 76,
+        "confidence": 58,
+        "paceWPM": 38,
+        "fillerWords": [
+          {
+            "word": "um",
+            "count": 1
+          },
+          {
+            "word": "like",
+            "count": 1
+          },
+          {
+            "word": "you know",
+            "count": 1
+          }
+        ],
+        "strengths": [
+          "Steady speaking attempt with 22 words expressed.",
+          "Willingness to keep talking through hesitation.",
+          "Clear attempt to address the prompt directly."
+        ],
+        "weaknesses": [
+          "Detected 3 filler words (\"um\", \"like\", \"you know\"). Practice comfortable silent pauses instead.",
+          "Speaking pace was 38 WPM (ideal conversational pace is 110–140 WPM). Aim for smoother transitions between thoughts."
+        ],
+        "pronunciationTips": [
+          "Focus on the clear ending of consonants in words like \"project\", \"talked\", \"confident\".",
+          "Use natural intonation: raise your pitch slightly when asking questions and lower it at the end of statements."
+        ],
+        "recommendations": [
+          "Record yourself answering this same question a second time without looking at any notes.",
+          "When you feel the urge to say \"um\" or \"like\", close your mouth and take a gentle one-second breath."
+        ]
+      },
+      "createdAt": "2026-09-04T07:42:16.593Z",
+      "updatedAt": "2026-09-04T07:42:16.593Z"
+    }
+  ],
+  "videoSessions": [
+    {
+      "_id": "d96c51e9cc36426fa46f97f7",
+      "userId": "f87076a0ad0e4c90abeb91db",
+      "scenario": "Public Speaking",
+      "level": 3,
+      "duration": 50,
+      "transcript": "Good morning everyone. Today I am honored to share our team breakthrough in clean energy. We faced numerous obstacles, but perseverance allowed us to deliver real results.",
+      "scores": {
+        "communication": 80,
+        "clarity": 78,
+        "grammar": 75,
+        "vocabulary": 81,
+        "confidence": 78,
+        "relevance": 85,
+        "overallScore": 79
+      },
+      "feedback": {
+        "overallScore": 79,
+        "communication": 80,
+        "clarity": 78,
+        "grammar": 75,
+        "vocabulary": 81,
+        "confidence": 78,
+        "relevance": 85,
+        "paceWPM": 32,
+        "fillerWords": [],
+        "strengths": [
+          "Maintained good composure in front of the camera.",
+          "Spoke for 50 seconds with continuous engagement.",
+          "Addressed the scenario with a direct and clear opening."
+        ],
+        "weaknesses": [
+          "Continue working on vocal projection and dynamic pitch variation."
+        ],
+        "stageFearTips": [
+          "Remember: Public speaking is an acquired mechanical skill, not an innate talent. Every practice session rewires your comfort zone.",
+          "Focus on the listener rather than your own anxiety. When your goal is to help or inform the other person, self-consciousness naturally decreases.",
+          "Take three slow diaphragmatic breaths before clicking record to lower heart rate."
+        ],
+        "bodyLanguageAdvice": [
+          "Keep eye contact near the upper third of your screen where the camera lens is located.",
+          "Maintain an open posture with relaxed shoulders and occasional natural hand gestures to emphasize key ideas."
+        ],
+        "recommendations": [
+          "Try advancing to Level 4 in this scenario to practice under slightly more dynamic conditions.",
+          "Re-record with a 5-second silence buffer before you begin speaking to center your thoughts."
+        ]
+      },
+      "createdAt": "2026-09-04T07:42:16.618Z",
+      "updatedAt": "2026-09-04T07:42:16.618Z"
+    }
+  ],
+  "progress": [
+    {
+      "_id": "637fc9e6cabb47e39d81be0c",
+      "userId": "f87076a0ad0e4c90abeb91db",
+      "writingScore": 73,
+      "grammarScore": 60,
+      "vocabularyScore": 80,
+      "overallScore": 73,
+      "date": "2026-09-04T07:42:16.564Z",
+      "createdAt": "2026-09-04T07:42:16.566Z",
+      "updatedAt": "2026-09-04T07:42:16.566Z"
+    },
+    {
+      "_id": "d71cc10bc6734e7687cb0af3",
+      "userId": "f87076a0ad0e4c90abeb91db",
+      "speakingScore": 67,
+      "fluencyScore": 51,
+      "grammarScore": 74,
+      "vocabularyScore": 78,
+      "pronunciationScore": 76,
+      "confidenceScore": 58,
+      "overallScore": 67,
+      "date": "2026-09-04T07:42:16.600Z",
+      "createdAt": "2026-09-04T07:42:16.602Z",
+      "updatedAt": "2026-09-04T07:42:16.602Z"
+    },
+    {
+      "_id": "2a9b483941fa4aaca552cafd",
+      "userId": "f87076a0ad0e4c90abeb91db",
+      "videoScore": 79,
+      "speakingScore": 79,
+      "confidenceScore": 78,
+      "grammarScore": 75,
+      "vocabularyScore": 81,
+      "overallScore": 79,
+      "date": "2026-09-04T07:42:16.624Z",
+      "createdAt": "2026-09-04T07:42:16.626Z",
+      "updatedAt": "2026-09-04T07:42:16.626Z"
+    },
+    {
+      "_id": "437d26db5b26430b919243ba",
+      "userId": "5851f89fbca24b439bd76617",
+      "writingScore": 85,
+      "grammarScore": 89,
+      "vocabularyScore": 85,
+      "overallScore": 85,
+      "date": "2026-09-04T08:35:40.474Z",
+      "createdAt": "2026-09-04T08:35:40.477Z",
+      "updatedAt": "2026-09-04T08:35:40.477Z"
+    },
+    {
+      "_id": "3d248d3d99f44a5c86129fdc",
+      "userId": "5851f89fbca24b439bd76617",
+      "writingScore": 85,
+      "grammarScore": 89,
+      "vocabularyScore": 85,
+      "overallScore": 85,
+      "date": "2026-09-04T08:35:40.572Z",
+      "createdAt": "2026-09-04T08:35:40.577Z",
+      "updatedAt": "2026-09-04T08:35:40.577Z"
+    }
+  ]
+}
